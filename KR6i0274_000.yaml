@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0274/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說寶如來三昧經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0637.xml
+    old_id: T15n0637
+hash: sha256:54627cd3b53447bd4a6a91293695a29a9d119be7b9671c12c7b141d9e583dfe9
